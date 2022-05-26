@@ -6,6 +6,7 @@
   ],
   "settings": {
     "typescript.tsc.autoDetect": "off",
-    "typescript.tsdk": "node_modules\\typescript\\lib"
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "workbench.startupEditor": "readme", //show README.md on startup
   }
 }
